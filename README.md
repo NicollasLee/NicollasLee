@@ -17,7 +17,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=NicollasLee&show_icons=true&theme=algolia">
 
--
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasLee&theme=algolia_count=8)
 

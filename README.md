@@ -2,9 +2,9 @@
 
 ---
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=NicollasLee&show_icons=true&theme=algolia">
+<img src="https://github-readme-stats.vercel.app/api?username=NicollasLee&show_icons=true&theme=dracula">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasLee&theme=algolia_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasLee&theme=dracula_count=8)
 </div>
 
 ---

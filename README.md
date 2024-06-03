@@ -21,7 +21,7 @@ Atualmente, em 2023, sou Tech Leader e desenvolvedor, nossa equipe desenvolve so
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NicollasLee&style=for-the-badge&color=brightgreen)
 
-<img width="800" height="220" src="https://streak-stats.demolab.com/?user=NicollasLee&theme=chartreuse-dark&cardwidth=800">
+<img width="800" height="220" src="https://streak-stats.demolab.com/?user=NicollasLee&theme=chartreuse-dark&card width=800">
 
 ---
 

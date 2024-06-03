@@ -4,7 +4,7 @@
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicollasLee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasLee&layout=compact&theme=dracula_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasLee&layout=compact&theme=dracula)
 </div>
 
 ---

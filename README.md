@@ -1,11 +1,5 @@
 <div align="center">
 
-
-### My Contacts:
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%ADcollas-richard-lee-83732b193/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicollasLee)
-
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NicollasLee&style=for-the-badge&color=brightgreen)
@@ -18,6 +12,11 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasLee&theme=algolia_count=8)
+
+### My Contacts:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%ADcollas-richard-lee-83732b193/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicollasLee)
 
 ## My Languages And Frameworks
 

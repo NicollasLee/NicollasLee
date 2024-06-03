@@ -6,11 +6,11 @@
 
 Tenho contato com a tecnologia desde de criança, sou apaixonado pela complexidade desse mundo, em 2016 - 2017 comecei a fazer um curso de desenvolvimentos de jogos.
 
-Em 2019, ingressei no Entra21,curso intensivo de desenvolvimento de software com duração de 6 mesês, que ao final exige a apresentação do TCC para empresas da região.No final de 2019 consegui ingressar na área de tecnologia.
+Em 2019, ingressei no Entra21,um curso intensivo de desenvolvimento de software com duração de 6 mesês, que ao final exige a apresentação do TCC para empresas da região.No final de 2019 consegui ingressar na área de tecnologia.
 
 Ao longo deste período,trabalhei em vários projetos importantes, Aprendi tecnologias e metodologias muito importantes para a minha carreira, e nas horas vagas criei um jogo 3D simples em Unity.
 
-Atualmente, em 2023, sou Tech Leader e desenvolvedor, nossa equipe desenvolve softwares para melhorar e acelerar o processo logístico. Nossas aplicações segue os principais Clean Code, SOLID, entre outros.
+Atualmente, sou Tech Leader e desenvolvedor, nossa equipe desenvolve softwares para melhorar e acelerar o processo logístico. Nossas aplicações segue os princípios do Clean Code, SOLID, entre outros.
 
 ### My Contacts:
 

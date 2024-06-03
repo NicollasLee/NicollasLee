@@ -27,6 +27,8 @@ Atualmente, em 2023, sou Tech Leader e desenvolvedor, nossa equipe desenvolve so
 
 <img src="https://github-readme-stats.vercel.app/api?username=NicollasLee&show_icons=true&theme=chartreuse-dark">
 
+-
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasLee&theme=chartreuse-dark&langs_count=8)
 
 ## My Languages And Frameworks

@@ -1,8 +1,8 @@
 ## Olá! Bem vindo ao meu perfil! 
 
-🕹 Apaixonado por games
-☕ Amante por café
-👨‍💻 Desenvolvedor Back-end
+- 🕹 Apaixonado por games
+- ☕ Amante por café
+- 👨‍💻 Desenvolvedor Back-end
 
 ---
 <div>

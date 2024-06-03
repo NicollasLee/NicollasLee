@@ -1,17 +1,12 @@
 <div align="center">
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=NicollasLee&style=for-the-badge&color=brightgreen)
-
-<img width="800" height="220" src="https://streak-stats.demolab.com/?user=NicollasLee&theme=algolia width=800">
+<img src="https://github-readme-stats.vercel.app/api?username=NicollasLee&show_icons=true&theme=algolia">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasLee&theme=algolia_count=8)
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=NicollasLee&show_icons=true&theme=algolia">
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasLee&theme=algolia_count=8)
+<img width="800" height="220" src="https://streak-stats.demolab.com/?user=NicollasLee&theme=algolia width=800">
 
 ### My Contacts:
 

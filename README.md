@@ -30,12 +30,6 @@
   
 </div>
 
-
-### Testing,Others:
-
-| Comming In The Future |
-|-----------------------|
-
 ---
 
 <img src="https://github.com/assets/164407135/efa0bbff-34c1-4351-b2dd-fe99341ba4c1">

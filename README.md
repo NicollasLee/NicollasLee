@@ -38,5 +38,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NicollasLee/NicollasLee/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/NicollasLee/NicollasLee/main/caminho/para/sua/coffe.gif" alt="GIF">
+<img src="https://raw.githubusercontent.com/NicollasLee/NicollasLee/main/coffe.gif" alt="GIF">
 

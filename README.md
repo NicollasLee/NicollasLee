@@ -4,7 +4,7 @@
 
 ### About Me:
 
-Tenho contato com a tecnologia desde de criança, sou faxinado pela complexidade desse mundo, em 2016 - 2017 comecei a fazer um curso de desenvolvimentos de jogos.
+Tenho contato com a tecnologia desde de criança, sou apaixonado pela complexidade desse mundo, em 2016 - 2017 comecei a fazer um curso de desenvolvimentos de jogos.
 
 Em 2019, ingressei no Entra21,curso intensivo de desenvolvimento de software com duração de 6 mesês, que ao final exige a apresentação do TCC para empresas da região.No final de 2019 consegui ingressar na área de tecnologia.
 

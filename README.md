@@ -37,6 +37,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NicollasLee/NicollasLee/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NicollasLee/NicollasLee/output/github-contribution-grid-snake.svg">
 </picture>
-
-<img src="https://raw.githubusercontent.com/NicollasLee/NicollasLee/main/skate.gif" alt="GIF">
-

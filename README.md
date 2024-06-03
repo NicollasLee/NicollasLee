@@ -1,6 +1,5 @@
 <div align="center">
 
-<img width=800 height=220 src="https://github.com/assets/164407135/2c0f8927-4709-4305-b870-6b1b235390ef">
 
 ### My Contacts:
 

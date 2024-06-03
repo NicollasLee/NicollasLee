@@ -1,13 +1,14 @@
 <div align="center">
 
 ---
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=NicollasLee&show_icons=true&theme=algolia">
+<img width="800" height="220" src="https://streak-stats.demolab.com/?user=NicollasLee&theme=algolia width=800">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasLee&theme=algolia_count=8)
+</div>
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasLee&theme=algolia_count=8)
-<img width="800" height="220" src="https://streak-stats.demolab.com/?user=NicollasLee&theme=algolia width=800">
-
 ### My Contacts:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%ADcollas-richard-lee-83732b193/)

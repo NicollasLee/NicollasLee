@@ -35,9 +35,9 @@ focus:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=NicollasLee&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=A0AEC0&icon_color=8B5CF6&ring_color=00F0FF"/>
+<img height="170em" src="https://github-readme-stats-one-blush-97.vercel.app/api?username=NicollasLee&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=A0AEC0&icon_color=8B5CF6&ring_color=00F0FF"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasLee&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=A0AEC0"/>
+<img height="170em" src="https://github-readme-stats-one-blush-97.vercel.app/api/top-langs/?username=NicollasLee&layout=compact&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=A0AEC0"/>
 
 </div>
 

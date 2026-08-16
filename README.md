@@ -1,12 +1,12 @@
-<img src="./hero.png" width="100%" alt="Nícollas Richard Lee — Desenvolvedor Full Stack, Escritor, Criador de experiências">
+<img src="./hero.png" width="870" alt="Nícollas Richard Lee — Desenvolvedor Full Stack, Escritor, Criador de experiências">
 
-<img align="right" src="./techstack.png" width="56%" alt="Tech stack — Backend: .NET 8, C#, ASP.NET Core, SQL Server, Entity Framework Core. Frontend: React, React Native, TypeScript. Game development: Unity, C#, URP. Tools e DevOps: Docker, Kubernetes, Azure DevOps, Git, Linux"><img src="./h-projects.png" width="42%" alt="Projects"><br>
-<a href="https://github.com/NicollasLee/anima"><img src="./p-emma.png" width="42%" alt="emma — Companheira de IA com memória associativa, que observa, entende e evolui com você."></a><br>
-<a href="https://github.com/NicollasLee/GatesOfRuin"><img src="./p-gates.png" width="42%" alt="gates-of-ruin — RPG de mundo aberto inspirado em Zelda, focado em exploração e imersão."></a><br>
-<a href="https://www.amazon.com.br/Inicio-Partir-do-Desconhecido-ebook/dp/B0DZV66HX2"><img src="./p-livro.png" width="42%" alt="o-inicio-a-partir-do-desconhecido — Saga de livros de fantasia sobre destinos, escolhas e o desconhecido."></a><br>
-<a href="https://github.com/NicollasLee/PatotaFC"><img src="./p-patota.png" width="42%" alt="patota-fc — Plataforma de futebol baseada em XP e comunidade."></a><br>
-<a href="https://github.com/NicollasLee?tab=repositories"><img src="./p-preco.png" width="42%" alt="precoradar — Plataforma de análise de mercado e acompanhamento de preços."></a><br>
-<a href="https://github.com/NicollasLee?tab=repositories"><img src="./p-more.png" width="42%" alt="e muitos mais em repositories..."></a>
+<img align="right" src="./techstack.png" width="470" alt="Tech stack — Backend: .NET 8, C#, ASP.NET Core, SQL Server, Entity Framework Core. Frontend: React, React Native, TypeScript. Game development: Unity, C#, URP. Tools e DevOps: Docker, Kubernetes, Azure DevOps, Git, Linux"><img src="./h-projects.png" width="384" alt="Projects"><br>
+<a href="https://github.com/NicollasLee/anima"><img src="./p-emma.png" width="384" alt="emma — Companheira de IA com memória associativa, que observa, entende e evolui com você."></a><br>
+<a href="https://github.com/NicollasLee/GatesOfRuin"><img src="./p-gates.png" width="384" alt="gates-of-ruin — RPG de mundo aberto inspirado em Zelda, focado em exploração e imersão."></a><br>
+<a href="https://www.amazon.com.br/Inicio-Partir-do-Desconhecido-ebook/dp/B0DZV66HX2"><img src="./p-livro.png" width="384" alt="o-inicio-a-partir-do-desconhecido — Saga de livros de fantasia sobre destinos, escolhas e o desconhecido."></a><br>
+<a href="https://github.com/NicollasLee/PatotaFC"><img src="./p-patota.png" width="384" alt="patota-fc — Plataforma de futebol baseada em XP e comunidade."></a><br>
+<a href="https://github.com/NicollasLee?tab=repositories"><img src="./p-preco.png" width="384" alt="precoradar — Plataforma de análise de mercado e acompanhamento de preços."></a><br>
+<a href="https://github.com/NicollasLee?tab=repositories"><img src="./p-more.png" width="384" alt="e muitos mais em repositories..."></a><br>
 <br clear="all">
 
 <p align="center">

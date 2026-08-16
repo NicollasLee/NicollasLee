@@ -1,11 +1,6 @@
 <img src="./hero.png" width="870" alt="Nícollas Richard Lee — Desenvolvedor Full Stack, Escritor, Criador de experiências">
 
-<img align="right" src="./rail.png" width="163" alt="">
-
-<img src="https://img.shields.io/badge/currently-building-8B5CF6?style=flat&labelColor=161B22" alt="currently building">
-<img src="https://komarev.com/ghpvc/?username=NicollasLee&color=8B5CF6&label=profile+views" alt="profile views">
-<a href="https://www.amazon.com.br/Inicio-Partir-do-Desconhecido-ebook/dp/B0DZV66HX2"><img src="https://img.shields.io/badge/livro-publicado-8B5CF6?style=flat&logo=amazonkindle&logoColor=white&labelColor=161B22" alt="livro publicado"></a>
-<img src="https://img.shields.io/badge/discord-nicollaslee-5865F2?style=flat&logo=discord&logoColor=white&labelColor=161B22" alt="discord">
+<img align="right" src="./rail.png" width="163" alt=""><img src="https://img.shields.io/badge/currently-building-8B5CF6?style=flat&labelColor=161B22" alt="currently building"> <img src="https://komarev.com/ghpvc/?username=NicollasLee&color=8B5CF6&label=profile+views" alt="profile views"> <a href="https://www.amazon.com.br/Inicio-Partir-do-Desconhecido-ebook/dp/B0DZV66HX2"><img src="https://img.shields.io/badge/livro-publicado-8B5CF6?style=flat&logo=amazonkindle&logoColor=white&labelColor=161B22" alt="livro publicado"></a> <img src="https://img.shields.io/badge/discord-nicollaslee-5865F2?style=flat&logo=discord&logoColor=white&labelColor=161B22" alt="discord">
 
 <img src="./h-projects.png" width="440" alt="Projects">
 

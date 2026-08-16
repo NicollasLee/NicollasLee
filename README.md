@@ -1,68 +1,34 @@
-<!-- ╭─────────────────────────────────────────────╮ -->
-<!-- │      lee • entre código e histórias         │ -->
-<!-- ╰─────────────────────────────────────────────╯ -->
+<img src="./hero.png" width="100%" alt="Nícollas Richard Lee — Desenvolvedor Full Stack, Escritor, Criador de experiências">
 
-<div align="center">
+<img align="right" src="./techstack.png" width="58%" alt="Tech stack: .NET 8, C#, ASP.NET Core, SQL Server, Entity Framework Core, React, React Native, TypeScript, Unity, URP, Docker, Kubernetes, Azure DevOps, Git, Linux">
 
-<img src="https://i.pinimg.com/originals/cb/0b/df/cb0bdf2580bf2b7e9bf6f7a8a55c0a86.gif" width="100%" height="220" style="object-fit:cover;border-radius:12px;"/>
+<img src="./h-projects.png" width="40%" alt="Projects"><br>
+<a href="https://github.com/NicollasLee/anima"><img src="./p-emma.png" width="40%" alt="emma — Companheira de IA com memória associativa, que observa, entende e evolui com você."></a><br>
+<a href="https://github.com/NicollasLee/GatesOfRuin"><img src="./p-gates.png" width="40%" alt="gates-of-ruin — RPG de mundo aberto inspirado em Zelda, focado em exploração e imersão."></a><br>
+<a href="https://www.amazon.com.br/Inicio-Partir-do-Desconhecido-ebook/dp/B0DZV66HX2"><img src="./p-livro.png" width="40%" alt="o-inicio-a-partir-do-desconhecido — Saga de livros de fantasia sobre destinos, escolhas e o desconhecido."></a><br>
+<a href="https://github.com/NicollasLee/PatotaFC"><img src="./p-patota.png" width="40%" alt="patota-fc — Plataforma de futebol baseada em XP e comunidade."></a><br>
+<a href="https://github.com/NicollasLee?tab=repositories"><img src="./p-preco.png" width="40%" alt="precoradar — Plataforma de análise de mercado e acompanhamento de preços."></a><br>
+<a href="https://github.com/NicollasLee?tab=repositories"><img src="./p-more.png" width="40%" alt="e muitos mais em repositories..."></a>
 
-<br/>
+<br clear="all">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=400&size=32&duration=3500&pause=1200&color=E8B4B8&center=true&vCenter=true&width=720&height=60&lines=☕+dev+por+ofício%2C+escritor+por+paixão;🌙+entre+código+e+histórias;🐈+gato+no+colo%2C+chuva+na+janela)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://github.com/NicollasLee"><img src="./f-github.png" height="22" alt="github"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.amazon.com.br/Inicio-Partir-do-Desconhecido-ebook/dp/B0DZV66HX2"><img src="./f-books.png" height="22" alt="books"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/n%C3%ADcollas-richard-lee-83732b193/"><img src="./f-linkedin.png" height="22" alt="linkedin"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:nicollasleeribeiro@gmail.com"><img src="./f-email.png" height="22" alt="email"></a>
+</p>
 
-<br/>
+<p align="center">
+  <img src="./quote.png" height="20" alt="コードは道具、物語は力。">
+</p>
 
-<img src="https://img.shields.io/badge/-@nicollaslee-2b2730?style=flat-square&logo=github&logoColor=e8b4b8&labelColor=2b2730"/>
-<img src="https://komarev.com/ghpvc/?username=NicollasLee&label=visitas&color=c9a0a6&style=flat-square&labelColor=2b2730"/>
-<img src="https://img.shields.io/badge/now_playing-lofi_%26_rain_sounds-c9a0a6?style=flat-square&labelColor=2b2730&logo=spotify&logoColor=e8b4b8"/>
-<img src="https://img.shields.io/badge/☕-café_preto-8b6f47?style=flat-square&labelColor=2b2730"/>
-
-<br/><br/>
-
-<!-- ════════════════ SOBRE ════════════════ -->
-
-## 🍂 ・ `sobre`
-
-<sub>dev · gamer · escritor de fantasia</sub>
-
-<sub>survival co-op pra relaxar, explorar mapas e enfrentar monstros</sub>
-
-<sub>entre cafés silenciosos, noites chuvosas e mundos imersivos</sub>
-
-<br/><br/>
-
-<!-- ════════════════ STACK ════════════════ -->
-
-## `~/ stack`
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,nodejs,docker,azure,git&theme=dark&perline=8" />
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,unity,electron,threejs,react,vite&theme=dark&perline=8" />
-
-<br/><br/>
-
-<!-- ════════════════ SNAKE ════════════════ -->
-
-## `~/ contributions`
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicollasLee/NicollasLee/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NicollasLee/NicollasLee/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/NicollasLee/NicollasLee/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/><br/>
-
-<!-- ════════════════ FOOTER ════════════════ -->
-
-<img src="https://i.pinimg.com/originals/c3/64/8b/c3648b1ed62f0adabe9b54df7ec6f7a3.gif" width="100%" height="200" style="object-fit:cover;border-radius:12px;"/>
-
-<br/><br/>
-
-<sub><i>obrigado por passar por aqui — que a sua xícara nunca esfrie ☕</i></sub>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/currently-building-8B5CF6?style=flat&labelColor=161B22" alt="currently building">
+  <img src="https://komarev.com/ghpvc/?username=NicollasLee&color=8B5CF6&label=profile+views" alt="profile views">
+  <a href="https://www.amazon.com.br/Inicio-Partir-do-Desconhecido-ebook/dp/B0DZV66HX2"><img src="https://img.shields.io/badge/livro-publicado-8B5CF6?style=flat&logo=amazonkindle&logoColor=white&labelColor=161B22" alt="livro publicado"></a>
+  <img src="https://img.shields.io/badge/discord-nicollaslee-5865F2?style=flat&logo=discord&logoColor=white&labelColor=161B22" alt="discord">
+</p>
